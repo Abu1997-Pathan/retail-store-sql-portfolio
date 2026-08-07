@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Store_City,Supplier_ID,Unit_Price,Stock_Quantity
+1,Bluetooth Speaker,Electronics,Bristol,14,167.32,91
+2,Wireless Mouse,Electronics,Leeds,18,266.92,112
+3,USB-C Charger,Electronics,Bristol,6,172.55,196
+4,Laptop Stand,Electronics,Birmingham,4,349.97,94
+5,Smartwatch,Electronics,Manchester,42,37.99,171
+6,Wireless Earbuds,Electronics,London,,25.4,68
+7,HDMI Cable 2m,Electronics,Manchester,2,223.15,66
+8,Power Bank 10000mAh,Electronics,Manchester,31,239.27,149
+9,HD Webcam,Electronics,Manchester,30,249.32,99
+10,Bluetooth Headphones,Electronics,Manchester,39,218.43,196
+11,Vacuum Cleaner,Home,Liverpool,,173.34,46
+12,Air Fryer,Home,Bristol,,131.52,84
+13,Table Lamp,Home,Birmingham,44,200.69,101
+14,Throw Blanket,Home,Leeds,46,51.65,156
+15,Cushion Cover Set,Home,Liverpool,41,61.0,183
+16,Digital Kitchen Scale,Home,Bristol,,136.09,35
+17,Non-stick Frying Pan,Home,Birmingham,3,82.91,114
+18,Storage Box Set,Home,Liverpool,24,24.48,170
+19,Wall Clock,Home,Bristol,1,188.41,130
+20,Bath Towel Set,Home,London,28,211.77,167
+21,Electric Toothbrush,Personal Care,Leeds,46,16.31,50
+22,Hair Dryer,Personal Care,Liverpool,34,87.0,74
+23,Shaving Kit,Personal Care,Birmingham,35,70.39,124
+24,Body Lotion 400ml,Personal Care,Leeds,47,54.55,87
+25,Face Wash Gel,Personal Care,Manchester,6,27.27,120
+26,Hand Cream Pack,Personal Care,Manchester,49,43.43,161
+27,Nail Care Kit,Personal Care,Liverpool,25,32.27,131
+28,Hair Straightener,Personal Care,Bristol,12,45.42,95
+29,Deodorant Pack of 3,Personal Care,Bristol,22,27.33,157
+30,Sunscreen SPF50,Personal Care,Liverpool,18,51.35,137
+31,Notebook Pack of 5,Office Supplies,Manchester,6,30.48,109
+32,Heavy Duty Stapler,Office Supplies,Leeds,36,91.46,181
+33,Desk Organizer,Office Supplies,Leeds,42,86.0,119
+34,Printer Paper A4 Ream,Office Supplies,London,6,36.72,108
+35,Ballpoint Pens Pack 10,Office Supplies,Liverpool,16,38.13,153
+36,Whiteboard 60x90cm,Office Supplies,Bristol,31,67.31,93
+37,File Folder Set,Office Supplies,Leeds,48,66.95,95
+38,Sticky Notes Pack,Office Supplies,Liverpool,30,33.97,69
+39,Highlighter Pack of 6,Office Supplies,Manchester,8,87.11,85
+40,LED Desk Lamp,Office Supplies,London,48,65.23,200
+41,Throw Blanket Lite,Home,Liverpool,31,68.06,155
+42,Hair Dryer Lite,Personal Care,Bristol,15,34.4,82
+43,HD Webcam Plus,Electronics,Bristol,3,341.39,146
+44,Shaving Kit Deluxe,Personal Care,London,1,52.94,125
+45,Sticky Notes Pack Classic,Office Supplies,Manchester,4,31.79,127
+46,Wireless Mouse Compact,Electronics,Leeds,5,208.3,180
+47,USB-C Charger Plus,Electronics,Birmingham,20,43.54,68
+48,HD Webcam Compact,Electronics,Birmingham,39,279.9,62
+49,Sticky Notes Pack Deluxe,Office Supplies,Bristol,38,118.82,83
+50,Bluetooth Headphones Mini,Electronics,Manchester,41,85.69,174
